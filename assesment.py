@@ -1,7 +1,7 @@
 import os
 
 
-folder_path = "Output"
+folder_path = "output"
 
 
 files = os.listdir(folder_path)
