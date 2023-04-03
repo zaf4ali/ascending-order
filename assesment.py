@@ -1,7 +1,7 @@
 import os
 
 
-folder_path = "C:\Users\zafar\OneDrive\Desktop\Output\Output"
+folder_path = "Output"
 
 
 files = os.listdir(folder_path)
